@@ -1,0 +1,180 @@
+# depslib dependency file v1.0
+1552691591 source:/home/eran/Documents/CPP/WooffursInsurance/Dog.cpp
+	"Dog.h"
+
+1552697818 /home/eran/Documents/CPP/WooffursInsurance/Dog.h
+	<string>
+
+1552697310 source:/home/eran/Documents/CPP/WooffursInsurance/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Pitbull.h"
+	"Doberman.h"
+	"Rottweiler.h"
+	"GermanShepherd.h"
+	"ChowChow.h"
+	"GreatDane.h"
+	"PresaCanario.h"
+	"Akita.h"
+	"AlaskanMalamute.h"
+	"Husky.h"
+	"OtherBreed.h"
+
+1552688783 source:/home/eran/Documents/CPP/WooffursInsurance/Akita.cpp
+	"Akita.h"
+
+1552688741 /home/eran/Documents/CPP/WooffursInsurance/Akita.h
+	"Dog.h"
+
+1552599280 source:/home/eran/Documents/CPP/WooffursInsurance/DogFactory.cpp
+	"DogFactory.h"
+
+1552599272 /home/eran/Documents/CPP/WooffursInsurance/DogFactory.h
+	"Dog.h"
+
+1552690960 /home/eran/Documents/CPP/WooffursInsurance/Husky.h
+	"Dog.h"
+
+1552691641 source:/home/eran/Documents/CPP/WooffursInsurance/Husky.cpp
+	"Husky.h"
+
+1552694385 source:/home/eran/Documents/CPP/WooffursInsurance/Alaskan Malamute.cpp
+	"AlaskanMalamute.h"
+
+1552693169 /home/eran/Documents/CPP/WooffursInsurance/AlaskanMalamute.h
+	"Dog.h"
+
+1552694395 source:/home/eran/Documents/CPP/WooffursInsurance/ChowChow.cpp
+	"ChowChow.h"
+
+1552693219 /home/eran/Documents/CPP/WooffursInsurance/ChowChow.h
+	"Dog.h"
+
+1552694403 source:/home/eran/Documents/CPP/WooffursInsurance/Doberman.cpp
+	"Doberman.h"
+
+1552693258 /home/eran/Documents/CPP/WooffursInsurance/Doberman.h
+	"Dog.h"
+
+1552694409 source:/home/eran/Documents/CPP/WooffursInsurance/GermanShepherd.cpp
+	"GermanShepherd.h"
+
+1552693291 /home/eran/Documents/CPP/WooffursInsurance/GermanShepherd.h
+	"Dog.h"
+
+1552694417 source:/home/eran/Documents/CPP/WooffursInsurance/GreatDane.cpp
+	"GreatDane.h"
+
+1552693318 /home/eran/Documents/CPP/WooffursInsurance/GreatDane.h
+	"Dog.h"
+
+1552691779 /home/eran/Documents/CPP/WooffursInsurance/Pitbull.h
+	"Dog.h"
+
+1552693391 /home/eran/Documents/CPP/WooffursInsurance/Rottweiler.h
+	"Dog.h"
+
+1552693363 /home/eran/Documents/CPP/WooffursInsurance/PresaCanario.h
+	"Dog.h"
+
+1552694497 /home/eran/Documents/CPP/WooffursInsurance/OtherBreed.h
+	"Dog.h"
+
+1552694838 source:/home/eran/Documents/CPP/WooffursInsurance/OtherBreed.cpp
+	"OtherBreed.h"
+
+1552694854 source:/home/eran/Documents/CPP/WooffursInsurance/Pitbull.cpp
+	"Pitbull.h"
+
+1552694861 source:/home/eran/Documents/CPP/WooffursInsurance/PresaCanario.cpp
+	"PresaCanario.h"
+
+1552694869 source:/home/eran/Documents/CPP/WooffursInsurance/Rottweiler.cpp
+	"Rottweiler.h"
+
+1552688783 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Akita.cpp
+	"Akita.h"
+
+1552688741 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Akita.h
+	"Dog.h"
+
+1552697818 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Dog.h
+	<string>
+
+1552694385 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Alaskan Malamute.cpp
+	"AlaskanMalamute.h"
+
+1552693169 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/AlaskanMalamute.h
+	"Dog.h"
+
+1552694395 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/ChowChow.cpp
+	"ChowChow.h"
+
+1552693219 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/ChowChow.h
+	"Dog.h"
+
+1552694403 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Doberman.cpp
+	"Doberman.h"
+
+1552693258 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Doberman.h
+	"Dog.h"
+
+1552697871 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Dog.cpp
+	"Dog.h"
+
+1552694409 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/GermanShepherd.cpp
+	"GermanShepherd.h"
+
+1552693291 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/GermanShepherd.h
+	"Dog.h"
+
+1552694417 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/GreatDane.cpp
+	"GreatDane.h"
+
+1552693318 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/GreatDane.h
+	"Dog.h"
+
+1552697853 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Pitbull.h"
+	"Doberman.h"
+	"Rottweiler.h"
+	"GermanShepherd.h"
+	"ChowChow.h"
+	"GreatDane.h"
+	"PresaCanario.h"
+	"Akita.h"
+	"AlaskanMalamute.h"
+	"Husky.h"
+	"OtherBreed.h"
+
+1552691779 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Pitbull.h
+	"Dog.h"
+
+1552693391 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Rottweiler.h
+	"Dog.h"
+
+1552693363 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/PresaCanario.h
+	"Dog.h"
+
+1552690960 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Husky.h
+	"Dog.h"
+
+1552694497 /home/eran/Documents/CPP/WooffursInsurance/Wooffurs/OtherBreed.h
+	"Dog.h"
+
+1552694838 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/OtherBreed.cpp
+	"OtherBreed.h"
+
+1552694854 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Pitbull.cpp
+	"Pitbull.h"
+
+1552694861 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/PresaCanario.cpp
+	"PresaCanario.h"
+
+1552694869 source:/home/eran/Documents/CPP/WooffursInsurance/Wooffurs/Rottweiler.cpp
+	"Rottweiler.h"
+
